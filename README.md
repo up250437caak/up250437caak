@@ -1,6 +1,10 @@
- Hi there my name is Karol Alexander Camacho Arevalo  
- Soy estudiante de la **Universidad Politecnica de Aguascalientes** en la carrera de Tecnologias e Inovaccion Digital  
- Mi perfil personal👌: <https://www.instagram.com/karol.arevalo.a?igsh=ZTB1eG92OHE3bmY0&utm_source=qr>
+ Hola mi nombre es  *Karol Alexander Camacho Arevalo*  
+ 
+ Soy estudiante de la **Universidad Politecnica de Aguascalientes** en la carrera de *Tecnologias e Inovaccion Digital*   
+ *Mi perfil personal👌*: <https://www.instagram.com/karol.arevalo.a?igsh=ZTB1eG92OHE3bmY0&utm_source=qr>
+ *Mis Apodos*: **Flamingo🦩**, **Karolo**.  
+ *Idiomas*: Español,Ingles y Japones.
+ 
 
 <!--
 **up250437caak/up250437caak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
