@@ -3,7 +3,10 @@
  Soy estudiante de la **Universidad Politecnica de Aguascalientes** en la carrera de *Tecnologias e Inovaccion Digital*   
  *Mi perfil personal👌*: <https://www.instagram.com/karol.arevalo.a?igsh=ZTB1eG92OHE3bmY0&utm_source=qr>  
  *Mis Apodos*: **Flamingo🦩**, **Karolo**.  
- *Idiomas*: **Español,Ingles y Japones.**  
+ <center>
+  *Idiomas*: **Español,Ingles y Japones.**  
+ </center>
+ 
  
  
 
