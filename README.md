@@ -7,6 +7,14 @@
   *Idiomas*: **Español,Ingles y Japones.**  
   
 
+<span style="color: rgb(255, 0, 0); font-size: 2em;">🔴 ROJO</span>  
+<span style="color: rgb(0, 255, 0); font-size: 2em;">🟢 VERDE</span>  
+<span style="color: rgb(0, 0, 255); font-size: 2em;">🔵 AZUL</span>
+
+
+
+<span style="color: rgb(255, 0, 0);">R</span><span style="color: rgb(0, 255, 0);">G</span><span style="color: rgb(0, 0, 255);">B</span> **Logo**
+
  
  
  
