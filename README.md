@@ -1,9 +1,10 @@
- Hola mi nombre es  *Karol Alexander Camacho Arevalo*  
+ Hola🙌 mi nombre es  *Karol Alexander Camacho Arevalo*  
  
  Soy estudiante de la **Universidad Politecnica de Aguascalientes** en la carrera de *Tecnologias e Inovaccion Digital*   
  *Mi perfil personal👌*: <https://www.instagram.com/karol.arevalo.a?igsh=ZTB1eG92OHE3bmY0&utm_source=qr>  
  *Mis Apodos*: **Flamingo🦩**, **Karolo**.  
- *Idiomas*: Español,Ingles y Japones.
+ *Idiomas*: **Español,Ingles y Japones.**  
+ 
  
 
 <!--
